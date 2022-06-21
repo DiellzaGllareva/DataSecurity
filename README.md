@@ -1,2 +1,2 @@
-# Siguria e te dhenave
+# Data security
 Projektet nga lenda Siguria e te dhenave
